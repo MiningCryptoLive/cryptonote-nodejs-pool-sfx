@@ -1,5 +1,5 @@
-var api = "https://multi-miner.smartcoinpool.net:8119";
-let parentCoin = "Arqma"
+var api = "https://xmr.solopool.us/api";
+let parentCoin = "XMR"
 
 var email = "support@poolhost.com";
 var telegram = "https://t.me/YourPool";
